@@ -38,4 +38,26 @@ Steps:
 Fill signup form with a weak password (less than 8 characters, missing uppercase, number, or symbol).
 Click signup.
 Expected Result:
-Error message "Password must include at least 8 characters, 1 uppercase letter, 1 number and 1 symbol" should appear.
+Error message "Password must include at least 8 characters, 1 uppercase letter, 1 number and 1 symbol" should appear
+
+Login Test Cases for HelloBooks Automation
+1. Login with Invalid Email
+Description:
+Verifies that the application displays an error message when a user tries to login with an email that does not exist in the system.
+Steps:
+Open the login page.
+Enter an invalid email and any password.
+Click the login button.
+Expected Result:
+Error message "User doesn't exist" should appear.
+
+2. Login with Valid Email
+Description:
+Ensures that a user with valid credentials can successfully login and reach the onboarding page.
+Steps:
+Open the login page.
+Enter a valid email and password.
+Click the login button.
+Expected Result:
+User should see the "Onboarding Process" message.
+.
