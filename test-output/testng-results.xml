@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-28T16:54:52 IST" name="Default suite" finished-at="2025-09-28T16:56:18 IST" duration-ms="86366">
+    <groups>
+    </groups>
+    <test started-at="2025-09-28T16:54:52 IST" name="Default test" finished-at="2025-09-28T16:56:18 IST" duration-ms="86366">
+      <class name="test.TestNewRegestration">
+        <test-method is-config="true" signature="ob()[pri:0, instance:test.TestNewRegestration@7e5afaa6]" started-at="2025-09-28T16:54:52 IST" name="ob" finished-at="2025-09-28T16:55:03 IST" duration-ms="10870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ob -->
+        <test-method signature="NewRegestration()[pri:1, instance:test.TestNewRegestration@7e5afaa6]" started-at="2025-09-28T16:55:03 IST" name="NewRegestration" finished-at="2025-09-28T16:55:13 IST" duration-ms="10033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewRegestration -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:test.TestNewRegestration@7e5afaa6]" started-at="2025-09-28T16:55:13 IST" name="closebrowser" finished-at="2025-09-28T16:55:13 IST" duration-ms="392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="ob()[pri:0, instance:test.TestNewRegestration@7e5afaa6]" started-at="2025-09-28T16:55:13 IST" name="ob" finished-at="2025-09-28T16:55:55 IST" duration-ms="42139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ob -->
+        <test-method signature="leaveMandetoryFieldsBlank()[pri:2, instance:test.TestNewRegestration@7e5afaa6]" started-at="2025-09-28T16:55:55 IST" name="leaveMandetoryFieldsBlank" finished-at="2025-09-28T16:55:56 IST" duration-ms="813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- leaveMandetoryFieldsBlank -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:test.TestNewRegestration@7e5afaa6]" started-at="2025-09-28T16:55:56 IST" name="closebrowser" finished-at="2025-09-28T16:55:56 IST" duration-ms="343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="ob()[pri:0, instance:test.TestNewRegestration@7e5afaa6]" started-at="2025-09-28T16:55:56 IST" name="ob" finished-at="2025-09-28T16:56:05 IST" duration-ms="8825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ob -->
+        <test-method signature="signupwithout_TC_Check()[pri:3, instance:test.TestNewRegestration@7e5afaa6]" started-at="2025-09-28T16:56:05 IST" name="signupwithout_TC_Check" finished-at="2025-09-28T16:56:07 IST" duration-ms="1961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signupwithout_TC_Check -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:test.TestNewRegestration@7e5afaa6]" started-at="2025-09-28T16:56:07 IST" name="closebrowser" finished-at="2025-09-28T16:56:08 IST" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="ob()[pri:0, instance:test.TestNewRegestration@7e5afaa6]" started-at="2025-09-28T16:56:08 IST" name="ob" finished-at="2025-09-28T16:56:15 IST" duration-ms="7849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ob -->
+        <test-method signature="signupwithWeakPassword()[pri:4, instance:test.TestNewRegestration@7e5afaa6]" started-at="2025-09-28T16:56:15 IST" name="signupwithWeakPassword" finished-at="2025-09-28T16:56:18 IST" duration-ms="2568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signupwithWeakPassword -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:test.TestNewRegestration@7e5afaa6]" started-at="2025-09-28T16:56:18 IST" name="closebrowser" finished-at="2025-09-28T16:56:18 IST" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- test.TestNewRegestration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
